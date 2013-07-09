@@ -19,5 +19,5 @@ class FirstSketch < Processing::App
 
 end
 
-FirstSketch.new(:width => 400, :height => 400,
+FirstSketch.new(:width => 500, :height => 500,
   :title => "FirstSketch", :full_screen => false)
